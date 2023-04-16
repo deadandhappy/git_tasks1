@@ -1,4 +1,4 @@
 # git_tasks
 
-I Can Win
-Bring It On
+1. I Can Win
+2. Bring It On
